@@ -1,2 +1,2 @@
 this is readme.txt
-git is controll!!
+this is change area!!
